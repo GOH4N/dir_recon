@@ -12,4 +12,5 @@ If you're running a VPN, you may run into issues with Feroxbuster.
 The tool is incredibly simple to use and additional features (adjusting option flags) will be added at a future date.
 
 -- Usage -- 
+
 ./dirrecon.sh <$URL> 
